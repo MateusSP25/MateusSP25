@@ -19,7 +19,8 @@ You can click the Preview link to take a look at your changes.
   
   <img align="center" alt="Joseferson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mateus-R" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-                      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
     
 </div>
   
