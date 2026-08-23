@@ -77,12 +77,19 @@ Projetos envolvendo modelagem de dados, consultas SQL, JOINs, filtros e agregaç
 
 ---
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MateusSP25&rank_icon=github&custom_title=Mateus%20S.%20Peixoto%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=MateusSP25&rank_icon=github&custom_title=Mateus%20S.%20Peixoto%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=radical)
+---
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MateusSP25&layout=compact&langs_count=8&theme=radical)](https://github.com/MateusSP25)
+---
+
 ## 📚 Atualmente estudando
 
 ```text
 Python
-Análise de Dados
+Power BI
 SQL
-Desenvolvimento Web
+IA
 Git e GitHub
 Inteligência Artificial
+
