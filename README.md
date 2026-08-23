@@ -82,7 +82,7 @@ Projetos envolvendo modelagem de dados, consultas SQL, JOINs, filtros e agregaç
 
 ## 📊 Linguagens mais utilizadas
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MateusSP25&layout=compact&langs_count=8&theme=radical)](https://github.com/MateusSP25)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MateusSP25&layout=compact&langs_count=8&theme=radical&size_weight=0.5&count_weight=0.5)](https://github.com/MateusSP25)
 ---
 
 ## 📚 Atualmente estudando
