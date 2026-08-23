@@ -75,10 +75,10 @@ Projetos envolvendo modelagem de dados, consultas SQL, JOINs, filtros e agregaç
 [🔗 Ver projeto](LINK_DO_REPOSITORIO)
 
 ---
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MateusSP25&rank_icon=github&custom_title=Mateus%20S.%20Peixoto%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=21600)](https://github.com/MateusSP25)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MateusSP25&rank_icon=github&custom_title=Mateus%20S.%20Peixoto%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/MateusSP25)
 
 ---
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MateusSP25&layout=compact&langs_count=8&theme=radical&size_weight=0.5&count_weight=0.5&cache_seconds=21600)](https://github.com/MateusSP25)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MateusSP25&layout=compact&langs_count=8&theme=radical&size_weight=0.5&count_weight=0.5)](https://github.com/MateusSP25)
 ---
 
 ## 📚 Atualmente estudando
