@@ -2,7 +2,6 @@
   <img src="./mateus.png" alt="Banner Mateus Santos Peixoto" width="100%">
 </p>
 
-<h1 align="center">Olá, eu sou Mateus Peixoto 👋</h1>
 
 <h3 align="center">
   Tecnologia • Desenvolvimento • Dados • Aprendizado Contínuo
