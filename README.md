@@ -36,7 +36,7 @@ Fora do ambiente acadêmico e profissional, tenho como principais hobbies jogos,
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=r,python,js,html,css,mysql,git,github,vscode" />
 
 </p>
 
