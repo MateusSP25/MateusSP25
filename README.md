@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-github-mateus.png" alt="Banner Mateus Santos Peixoto" width="100%" />
+  <img src="./mateus.png" alt="Banner Mateus Santos Peixoto" width="100%">
 </p>
 
 <h1 align="center">Olá, eu sou Mateus Peixoto 👋</h1>
