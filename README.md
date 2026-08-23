@@ -24,12 +24,12 @@ Tenho sólida experiência com R e atualmente venho ampliando meus conhecimentos
 Fora do ambiente acadêmico e profissional, tenho como principais hobbies jogos, texnologia, viagens, natureza, filmes e séries.
 
 - 💻 Desenvolvimento e programação
+- 📊 R
 - 🐍 Python
-- 📊 Análise de Dados
 - 🗄️ SQL e Banco de Dados
 - 🌐 Desenvolvimento Web
 - 🤖 Inteligência Artificial
-- 🚀 Construção de projetos para portfólio
+- 📈 Power BI e Visualização de Dados
 
 ---
 
