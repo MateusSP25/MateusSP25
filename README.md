@@ -51,7 +51,9 @@ Projeto utilizando R para tratamento, exploração e visualização de dados.
 
 [📁 Ver repositório](https://github.com/MateusSP25/AnalisesR)
 
-[📄 Ver script principal](https://github.com/MateusSP25/AnalisesR/blob/main/Estat%C3%ADstica%20descritiva.R)
+[📄 Ver script principal1](https://github.com/MateusSP25/AnalisesR/blob/main/R/Estat%C3%ADstica%20Espacial/Analise_Dengue_BR1.r)
+
+[📄 Ver script principal2](https://github.com/MateusSP25/AnalisesR/blob/main/Estat%C3%ADstica%20descritiva.R)
 
 ---
 
