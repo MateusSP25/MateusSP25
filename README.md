@@ -36,7 +36,7 @@ Fora do ambiente acadêmico e profissional, tenho como principais hobbies jogos,
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=r,python,js,html,css,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=r,python,js,html,mysql,git,github,vscode" />
 
 </p>
 
@@ -44,12 +44,34 @@ Fora do ambiente acadêmico e profissional, tenho como principais hobbies jogos,
 
 ## 🚀 Projetos em Destaque
 
-### 📊 Análise de Dados
+### 📊 Análise de Dados em R
+Projeto utilizando R para tratamento, exploração e visualização de dados.
+
+**Tecnologias:** R • tidyverse • dplyr • ggplot2 • tidyr
+
+[📁 Ver repositório](https://github.com/MateusSP25/AnalisesR)
+
+[📄 Ver script principal](https://github.com/MateusSP25/AnalisesR/blob/main/Estat%C3%ADstica%20descritiva.R)
+
+---
+
+### 🐍 Análise de Dados em Python
 Projeto utilizando Python para tratamento, exploração e visualização de dados.
 
 **Tecnologias:** Python • Pandas • NumPy • Matplotlib
 
-[🔗 Ver projeto](LINK_DO_REPOSITORIO)
+[📁 Ver repositório](https://github.com/MateusSP25/AnalisesPython)
+
+[📄 Ver script principal](https://github.com/MateusSP25/AnalisesPython/blob/main/python/analise.py)
+
+---
+
+### 🗄️ Banco de Dados e SQL
+Projetos envolvendo modelagem de dados, consultas SQL, JOINs, filtros e agregações.
+
+[📁 Ver repositório](https://github.com/MateusSP25/AnalisesSQL)
+
+[📄 Ver script principal](https://github.com/MateusSP25/AnalisesSQL/blob/main/SQL/Analise_de_Vendas.sql)
 
 ---
 
@@ -62,19 +84,6 @@ Projeto de aplicação web responsiva utilizando HTML, CSS e JavaScript.
 
 ---
 
-### 🐍 Projetos em Python
-Projetos desenvolvidos para praticar lógica, automação, algoritmos e análise de dados.
-
-[🔗 Ver projetos](LINK_DO_REPOSITORIO)
-
----
-
-### 🗄️ Banco de Dados e SQL
-Projetos envolvendo modelagem de dados, consultas SQL, JOINs, filtros e agregações.
-
-[🔗 Ver projeto](LINK_DO_REPOSITORIO)
-
----
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MateusSP25&rank_icon=github&custom_title=Mateus%20S.%20Peixoto%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=21600)](https://github.com/MateusSP25)
 
 ---
